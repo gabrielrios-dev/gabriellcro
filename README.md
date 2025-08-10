@@ -7,23 +7,12 @@ Full Stack Developer, graduated in Systems Analysis and Development (2023), spec
 
 ## Tech Stack
 
-![Axios](https://img.shields.io/badge/-Axios-212121?style=flat&logo=axios)
-![Express](https://img.shields.io/badge/-Express-212121?style=flat&logo=express)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=flat&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript&logoColor=2D79C7)
+![Tailwind](https://img.shields.io/badge/-Tailwind-212121?style=flat&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-212121?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-212121?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-212121?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-212121?style=flat&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-212121?style=flat&logo=prisma)
-![React](https://img.shields.io/badge/-React-212121?style=flat&logo=react)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-212121?style=flat&logo=reacthookform)
-![React Router](https://img.shields.io/badge/-React_Router-212121?style=flat&logo=react-router&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/-ShadCN/UI-212121?style=flat&logo=shadcnui)
-![Supabase](https://img.shields.io/badge/-Supabase-212121?style=flat&logo=supabase)
-![Tailwind](https://img.shields.io/badge/-Tailwind-212121?style=flat&logo=tailwind-css)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-212121?style=flat&logo=react-query)
-![TypeScript](https://img.shields.io/badge/-TypeScript-212121?style=flat&logo=typescript&logoColor=2D79C7)
-![Vite](https://img.shields.io/badge/-Vite-212121?style=flat&logo=vite&logoColor=FFD62E)
-![Zod](https://img.shields.io/badge/-Zod-212121?style=flat&logo=zod&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-212121?style=flat&logo=zustand&logoColor=white)
 
