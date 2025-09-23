@@ -1,4 +1,4 @@
-## Hello, I’m Gabriel Cavalcante! 👋
+## Hello, I’m Gabriel Rios! 👋
 
 Full Stack Developer, graduated in Systems Analysis and Development (2023), specialized in React, Next.js, Node.js, and TypeScript. Focused on clean code, SOLID principles, and scalable architectures — I turn complex challenges into elegant and efficient solutions.
 
