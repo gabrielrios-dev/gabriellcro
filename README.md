@@ -3,7 +3,7 @@
 Full Stack Developer, graduated in Systems Analysis and Development (2023), specialized in React, Next.js, Node.js, and TypeScript. Focused on clean code, SOLID principles, and scalable architectures — I turn complex challenges into elegant and efficient solutions.
 
 📍 Curitiba, Paraná, Brazil. <br/>
-📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/gabriellcro) or send an email to gabriellcro@proton.me
+📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/gabrielrios-dev) or send an email to gabriellcro@proton.me
 
 ## Tech Stack
 
